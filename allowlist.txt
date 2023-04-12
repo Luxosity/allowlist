@@ -1,2 +1,2 @@
-@@||hbo.com^$important,document
-@@||hbogo.com^$important,document
+||hbo.com^$important,document
+||hbogo.com^$important,document
