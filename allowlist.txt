@@ -57,3 +57,4 @@
 @@||pfp.intuit.com^$important
 @@||one.google.com^$important
 @@||id.google.com^$important
+@@||accounts.google.com^$important
