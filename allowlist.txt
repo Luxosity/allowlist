@@ -58,3 +58,6 @@
 @@||one.google.com^$important
 @@||id.google.com^$important
 @@||accounts.google.com^$important
+@@||account.proton.me^$important
+@@||proton.me^$important
+@@||api.proton.me^$important
