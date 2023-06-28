@@ -61,3 +61,4 @@
 @@||account.proton.me^$important
 @@||proton.me^$important
 @@||api.proton.me^$important
+@@||suppression-api.peopleconnect.us^$important
