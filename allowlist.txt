@@ -62,3 +62,4 @@
 @@||proton.me^$important
 @@||api.proton.me^$important
 @@||suppression-api.peopleconnect.us^$important
+@@||mega.co.nz^$important
